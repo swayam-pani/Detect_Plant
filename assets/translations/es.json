@@ -1,0 +1,23 @@
+{
+    "app_name": "DetectPlant",
+    "scan_plant": "Identificar planta",
+    "detect_disease": "Detectar enfermedad",
+    "quick_access": "Acceso rápido",
+    "scan_history": "Historial de escaneo",
+    "reports": "Informes",
+    "complaints": "Quejas",
+    "scan_leaf": "Escanear hoja",
+    "analysis_result": "Resultado del análisis",
+    "detected_plant": "Planta detectada",
+    "disease_detected": "Enfermedad detectada",
+    "status": "Estado",
+    "healthy": "Saludable 🌱",
+    "infected": "Infectada ⚠️",
+    "details": "Detalles",
+    "download_pdf": "Descargar PDF",
+    "no_history": "No se encontró historial.",
+    "submit_complaint": "Enviar queja",
+    "change_language": "Cambiar idioma",
+    "upload_image": "Subir imagen",
+    "take_photo": "Tomar foto"
+}

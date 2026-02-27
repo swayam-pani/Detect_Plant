@@ -1,0 +1,15 @@
+Aloe
+Bell_pepper
+Cactus
+Corn
+Gourd
+Money_Plant
+Papaya
+Potato
+Snake_Plant
+Spider_Plant
+Tomato
+apple
+grape
+hibiscus
+zucchini

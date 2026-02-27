@@ -1,0 +1,23 @@
+{
+    "app_name": "पौधा पहचान",
+    "scan_plant": "पौधा पहचानें",
+    "detect_disease": "रोग पहचानें",
+    "quick_access": "त्वरित पहुँच",
+    "scan_history": "स्कैन इतिहास",
+    "reports": "रिपोर्ट",
+    "complaints": "शिकायतें",
+    "scan_leaf": "पत्ता स्कैन करें",
+    "analysis_result": "विश्लेषण परिणाम",
+    "detected_plant": "पहचाना गया पौधा",
+    "disease_detected": "पहचानी गई बीमारी",
+    "status": "स्थिति",
+    "healthy": "स्वस्थ 🌱",
+    "infected": "संक्रमित ⚠️",
+    "details": "विवरण",
+    "download_pdf": "PDF डाउनलोड करें",
+    "no_history": "कोई स्कैन इतिहास नहीं मिला।",
+    "submit_complaint": "शिकायत दर्ज करें",
+    "change_language": "भाषा बदलें",
+    "upload_image": "छवि अपलोड करें",
+    "take_photo": "फोटो लें"
+}

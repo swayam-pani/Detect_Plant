@@ -1,0 +1,23 @@
+{
+    "app_name": "DetectPlant",
+    "scan_plant": "Pflanze identifizieren",
+    "detect_disease": "Krankheit erkennen",
+    "quick_access": "Schnellzugriff",
+    "scan_history": "Scanverlauf",
+    "reports": "Berichte",
+    "complaints": "Beschwerden",
+    "scan_leaf": "Blatt scannen",
+    "analysis_result": "Analyseergebnis",
+    "detected_plant": "Erkannte Pflanze",
+    "disease_detected": "Erkannte Krankheit",
+    "status": "Status",
+    "healthy": "Gesund 🌱",
+    "infected": "Infiziert ⚠️",
+    "details": "Details",
+    "download_pdf": "PDF herunterladen",
+    "no_history": "Kein Verlauf gefunden.",
+    "submit_complaint": "Beschwerde einreichen",
+    "change_language": "Sprache ändern",
+    "upload_image": "Bild hochladen",
+    "take_photo": "Foto aufnehmen"
+}

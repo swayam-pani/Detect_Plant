@@ -1,0 +1,23 @@
+{
+  "app_name": "DetectPlant",
+  "scan_plant": "Identify Plant",
+  "detect_disease": "Detect Disease",
+  "quick_access": "Quick Access",
+  "scan_history": "Scan History",
+  "reports": "Reports",
+  "complaints": "Complaints",
+  "scan_leaf": "Scan Leaf",
+  "analysis_result": "Analysis Result",
+  "detected_plant": "Detected Plant",
+  "disease_detected": "Disease Detected",
+  "status": "Status",
+  "healthy": "Healthy 🌱",
+  "infected": "Infected ⚠️",
+  "details": "Details",
+  "download_pdf": "Download PDF",
+  "no_history": "No scan history found.",
+  "submit_complaint": "Submit Complaint",
+  "change_language": "Change Language",
+  "upload_image": "Upload Image",
+  "take_photo": "Take Photo"
+}

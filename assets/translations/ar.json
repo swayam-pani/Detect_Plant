@@ -1,0 +1,23 @@
+{
+    "app_name": "كشف النبات",
+    "scan_plant": "تحديد النبات",
+    "detect_disease": "كشف المرض",
+    "quick_access": "وصول سريع",
+    "scan_history": "سجل المسح",
+    "reports": "التقارير",
+    "complaints": "الشكاوى",
+    "scan_leaf": "مسح الورقة",
+    "analysis_result": "نتيجة التحليل",
+    "detected_plant": "النبات المكتشف",
+    "disease_detected": "المرض المكتشف",
+    "status": "الحالة",
+    "healthy": "صحي 🌱",
+    "infected": "مصاب ⚠️",
+    "details": "التفاصيل",
+    "download_pdf": "تحميل PDF",
+    "no_history": "لم يتم العثور على سجل.",
+    "submit_complaint": "تقديم شكوى",
+    "change_language": "تغيير اللغة",
+    "upload_image": "تحميل صورة",
+    "take_photo": "التقاط صورة"
+}

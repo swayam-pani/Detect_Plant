@@ -1,0 +1,23 @@
+{
+    "app_name": "DetectPlant",
+    "scan_plant": "Identifikasi tanaman",
+    "detect_disease": "Deteksi penyakit",
+    "quick_access": "Akses cepat",
+    "scan_history": "Riwayat pemindaian",
+    "reports": "Laporan",
+    "complaints": "Keluhan",
+    "scan_leaf": "Pindai daun",
+    "analysis_result": "Hasil analisis",
+    "detected_plant": "Tanaman terdeteksi",
+    "disease_detected": "Penyakit terdeteksi",
+    "status": "Status",
+    "healthy": "Sehat 🌱",
+    "infected": "Terinfeksi ⚠️",
+    "details": "Detail",
+    "download_pdf": "Unduh PDF",
+    "no_history": "Tidak ada riwayat.",
+    "submit_complaint": "Kirim keluhan",
+    "change_language": "Ganti bahasa",
+    "upload_image": "Unggah gambar",
+    "take_photo": "Ambil foto"
+}

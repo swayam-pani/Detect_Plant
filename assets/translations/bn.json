@@ -1,0 +1,23 @@
+{
+    "app_name": "উদ্ভিদ শনাক্তকরণ",
+    "scan_plant": "উদ্ভিদ শনাক্ত করুন",
+    "detect_disease": "রোগ শনাক্ত করুন",
+    "quick_access": "দ্রুত প্রবেশ",
+    "scan_history": "স্ক্যান ইতিহাস",
+    "reports": "প্রতিবেদন",
+    "complaints": "অভিযোগ",
+    "scan_leaf": "পাতা স্ক্যান করুন",
+    "analysis_result": "বিশ্লেষণ ফলাফল",
+    "detected_plant": "শনাক্তকৃত উদ্ভিদ",
+    "disease_detected": "শনাক্তকৃত রোগ",
+    "status": "অবস্থা",
+    "healthy": "সুস্থ 🌱",
+    "infected": "সংক্রমিত ⚠️",
+    "details": "বিস্তারিত",
+    "download_pdf": "PDF ডাউনলোড করুন",
+    "no_history": "কোনো স্ক্যান ইতিহাস পাওয়া যায়নি।",
+    "submit_complaint": "অভিযোগ জমা দিন",
+    "change_language": "ভাষা পরিবর্তন করুন",
+    "upload_image": "ছবি আপলোড করুন",
+    "take_photo": "ছবি তুলুন"
+}

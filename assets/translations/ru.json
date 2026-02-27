@@ -1,0 +1,23 @@
+{
+    "app_name": "DetectPlant",
+    "scan_plant": "Определить растение",
+    "detect_disease": "Обнаружить болезнь",
+    "quick_access": "Быстрый доступ",
+    "scan_history": "История сканирования",
+    "reports": "Отчёты",
+    "complaints": "Жалобы",
+    "scan_leaf": "Сканировать лист",
+    "analysis_result": "Результат анализа",
+    "detected_plant": "Обнаруженное растение",
+    "disease_detected": "Обнаруженная болезнь",
+    "status": "Статус",
+    "healthy": "Здоровое 🌱",
+    "infected": "Заражённое ⚠️",
+    "details": "Подробности",
+    "download_pdf": "Скачать PDF",
+    "no_history": "История не найдена.",
+    "submit_complaint": "Отправить жалобу",
+    "change_language": "Сменить язык",
+    "upload_image": "Загрузить изображение",
+    "take_photo": "Сделать фото"
+}
