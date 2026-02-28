@@ -35,8 +35,9 @@ class _ResultScreenState extends ConsumerState<ResultScreen> {
 
   Future<void> _fetchInfo() async {
     final label = widget.inferenceResult['plant'] as String? ?? 'Unknown';
+    final mode = _isPlantMode ? InfoFetchMode.plant : InfoFetchMode.disease;
     final wikiService = ref.read(wikipediaServiceProvider);
-    final info = await wikiService.getDiseaseInfo(label);
+    final info = await wikiService.fetchInfo(label, mode);
 
     if (mounted) {
       setState(() {

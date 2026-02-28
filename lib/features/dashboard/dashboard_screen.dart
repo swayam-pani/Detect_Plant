@@ -5,7 +5,6 @@ import 'package:plant_detection/core/services/tflite_service.dart';
 import 'package:plant_detection/features/scanner/scanner_screen.dart';
 import 'package:plant_detection/features/history/history_screen.dart';
 import 'package:plant_detection/features/reports/reports_screen.dart';
-import 'package:plant_detection/features/complaints/complaints_screen.dart';
 
 class DashboardScreen extends ConsumerWidget {
   const DashboardScreen({super.key});
@@ -124,18 +123,6 @@ class DashboardScreen extends ConsumerWidget {
                           context,
                           MaterialPageRoute(
                             builder: (_) => const ReportsScreen(),
-                          ),
-                        );
-                      },
-                    ),
-                    _DashboardCard(
-                      icon: Icons.report_problem,
-                      title: 'complaints'.tr(),
-                      onTap: () {
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (_) => const ComplaintsScreen(),
                           ),
                         );
                       },
