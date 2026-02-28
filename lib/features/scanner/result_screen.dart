@@ -221,6 +221,15 @@ class _ResultScreenState extends ConsumerState<ResultScreen> {
                           riskStatus: riskStatus,
                           wikiExtract: extract,
                         );
+                        if (mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(
+                              content: Text(
+                                'Report saved! View it in the Reports section.',
+                              ),
+                            ),
+                          );
+                        }
                       } catch (e) {
                         if (mounted) {
                           ScaffoldMessenger.of(context).showSnackBar(

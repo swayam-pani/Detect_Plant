@@ -2,7 +2,8 @@ import 'dart:io';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
-import 'package:printing/printing.dart';
+
+import 'package:path_provider/path_provider.dart';
 
 final pdfServiceProvider = Provider((ref) => PdfGenerationService());
 
@@ -117,9 +118,13 @@ class PdfGenerationService {
       ),
     );
 
-    await Printing.layoutPdf(
-      onLayout: (PdfPageFormat format) async => pdf.save(),
-      name: 'Plant_Report_${DateTime.now().millisecondsSinceEpoch}.pdf',
-    );
+    final bytes = await pdf.save();
+
+    final Directory dir = await getApplicationDocumentsDirectory();
+    final String pdfName =
+        'Plant_Report_${DateTime.now().millisecondsSinceEpoch}.pdf';
+    final String path = '${dir.path}/$pdfName';
+    final File file = File(path);
+    await file.writeAsBytes(bytes);
   }
 }
