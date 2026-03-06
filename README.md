@@ -1,25 +1,25 @@
-# 🌿 DetectPlant: AI-Based Plant & Disease Detection
+#  DetectPlant: AI-Based Plant & Disease Detection
 
 DetectPlant is a production-ready mobile application built using Flutter that leverages custom TensorFlow Lite models to identify plant species and detect leaf diseases. Designed for farmers, home gardeners, and nursery managers, it offers an offline-first experience with professional PDF reporting and multi-language support.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- **🚀 Dual-Model AI Engine**: 
+- **Dual-Model AI Engine**: 
   - **Plant Identification**: Recognizes 47 common plant species.
   - **Disease Detection**: Classifies 15 different plant disease categories.
-- **📷 Smart Camera & Gallery**: Instant capture or gallery upload for analysis.
-- **🌍 Multi-Language Support**: Fully localized in 10 languages:
-  - English, Spanish, Hindi, French, Arabic, Bengali, Russian, Portuguese, Indonesian, German.
-- **📖 Wikipedia Integration**: Automatically fetches detailed plant care and disease treatment information.
-- **📄 Professional PDF Reports**: Generate authenticated reports with images, AI insights, risk levels, and precautions.
-- **📜 Scan History**: Keeps a persistent local log of all scans using SQLite.
-- **🛡️ Offline First**: High-performance TFLite inference works entirely without an internet connection.
+- ** Smart Camera & Gallery**: Instant capture or gallery upload for analysis.
+- **Multi-Language Support**: Fully localized in 10 languages:
+  -  English, Spanish, Hindi, French, Arabic, Bengali, Russian, Portuguese, Indonesian, German.
+- ** Wikipedia Integration**: Automatically fetches detailed plant care and disease treatment information.
+- ** Professional PDF Reports**: Generate authenticated reports with images, AI insights, risk levels, and precautions.
+- ** Scan History**: Keeps a persistent local log of all scans using SQLite.
+- ** Offline First**: High-performance TFLite inference works entirely without an internet connection.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/) (Material 3)
 - **Deep Learning**: [TensorFlow Lite](https://www.tensorflow.org/lite)
@@ -31,7 +31,7 @@ DetectPlant is a production-ready mobile application built using Flutter that le
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ DetectPlant is a production-ready mobile application built using Flutter that le
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vishwaraj-636/DetectPlant.git
+   [git clone https://github.com/swayam-pani/Detect_Plant.git]
    cd DetectPlant
    ```
 
@@ -66,7 +66,7 @@ DetectPlant is a production-ready mobile application built using Flutter that le
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -83,7 +83,7 @@ lib/
 
 ---
 
-## 📊 AI Model Details
+## AI Model Details
 
 The application uses **EfficientNetB0** based TFLite models.
 - **Preprocessing**: Pass raw 0-255 float pixel values (Normalization is handled internally by the model).
@@ -91,7 +91,7 @@ The application uses **EfficientNetB0** based TFLite models.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -103,10 +103,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Developed by Vishwaraj-636*
+*Developed by SwayamPani*
