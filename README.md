@@ -43,7 +43,7 @@ DetectPlant is a production-ready mobile application built using Flutter that le
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vishwaraj-636/DetectPlant.git
+   [git clone https://github.com/swayam-pani/Detect_Plant.git]
    cd DetectPlant
    ```
 
